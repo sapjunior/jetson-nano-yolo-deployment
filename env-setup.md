@@ -40,7 +40,7 @@ which pip
 which python
 #### This two commands will check that are you in correct env or not? If correct, it will be something like $HOME/labenv/bin/[pip|python]
 
-
+# https://elinux.org/Jetson_Zoo#ONNX_Runtime download onnxruntime from here python3.6!
 pip install -U pip $HOME/packages/onnxruntime_gpu-1.11.0-cp36-cp36m-linux_aarch64.whl
 ```
 
